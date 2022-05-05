@@ -1,0 +1,13 @@
+.place__link {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+    transition: opacity .5s ease;
+    color: #ffffff;
+    align-self: end;
+}
+
+.place__link:hover {
+    opacity: .5;
+}
